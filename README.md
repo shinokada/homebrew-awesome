@@ -1,22 +1,10 @@
-# homebrew-awesome 
+# homebrew-awesome
 
-## Overview
-
-
-## Requirement
-
-
-## Usage
-
-
-## Features
-
-
-## Reference
-
+[A simple script package manager Awesome](https://github.com/shinokada/awesome)
 
 ## Author
 
+Shinich Okada
 
 ## Licence
 
