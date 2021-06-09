@@ -1,4 +1,4 @@
-class Abi < Formula
+class Awesome < Formula
     desc "The `awesome` is a simple shell script package manager. Awesome installs a shell script package from a GitHub repo on your macOS/Linux."
     homepage "https://github.com/shinokada/awesome"
     url "https://github.com/shinokada/awesome/archive/refs/tags/v0.2.3.tar.gz"
